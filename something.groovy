@@ -2,7 +2,7 @@
 
 /* 
  *  Script: something.groovy
- *   Usage: something.groovy
+ *   Usage: something.groovy --name
  * Purpose:
  *  Author: nathan.neff@gmail.com
  * History: 
